@@ -17,3 +17,4 @@ print(add(3, 3))
 print(mul(2, 3))
 print(sub(5, 2))
 print(div(10, 2))
+print(div(10,5));
