@@ -14,7 +14,4 @@ def sub(a,b):
 def div(a,b):
     return a/b
 hi();
-print(add(2, 2))
-print(add(3, 3))
-print(mul(2, 3))
 
